@@ -210,6 +210,7 @@ public final class WestminsterSkinConsultationManager implements SkinConsultatio
         System.out.print("\nWould you like to terminate the process? (Y|N): ");
         String result = scanner.next().toLowerCase().strip();
         return Objects.equals(result, "y");
+
     }
 
     // Print questions and validate String input

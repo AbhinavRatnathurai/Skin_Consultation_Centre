@@ -14,10 +14,7 @@ import java.util.Scanner;
 import static java.lang.System.exit;
 
 /**
- * The main class of the Skin consultation management application
- *
- * @author Joseph Jerrick Godwin - w1899291
- * @since 1.0
+ * @author Abhinav Ratnathurai - abhinavratnathuraiofficial@gmail.com - +94 71 887 4447
  */
 public final class Main {
     public static void main(String[] args) {
